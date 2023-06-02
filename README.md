@@ -1,2 +1,11 @@
-# telecom-homeworks
-Projects focused on acquiring familiarity with the ns-3 environment, along with Wireshark and simulation workflows.
+# Telecommunications Project Repository
+
+Welcome to our repository showcasing two successfully completed projects in the field of telecommunications. As a team, we have created a network using ns-3, implemented in C++, and utilized Wireshark to analyze the packet flow during the simulation. Our main focus was on calculating key parameters such as throughput and round-trip time (RTT).
+
+Through the power of ns-3, we designed and simulated a network scenario, carefully configuring various network elements and protocols. We leveraged the flexibility and extensibility of the ns-3 framework to create a realistic network environment.
+
+Using Wireshark, we captured and analyzed the packet flow within the simulated network. By examining the captured packets, we were able to calculate important performance metrics such as throughput, measuring the rate at which data was successfully transmitted, and RTT, quantifying the time taken for a packet to travel from the source to the destination and back.
+
+Our collaborative efforts and thorough analysis of the packet flow enabled us to gain valuable insights into the behavior and performance of the simulated network. By accurately measuring these parameters, we were able to assess the efficiency and effectiveness of the network design.
+
+For more detailed specifications and findings, please refer to the respective project directories, where you will find two comprehensive reports in PDF format.
