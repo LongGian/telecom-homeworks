@@ -9,3 +9,12 @@ Using Wireshark, we captured and analyzed the packet flow within the simulated n
 Our collaborative efforts and thorough analysis of the packet flow enabled us to gain valuable insights into the behavior and performance of the simulated network. By accurately measuring these parameters, we were able to assess the efficiency and effectiveness of the network design.
 
 For more detailed specifications and findings, please refer to the respective project directories, where you will find two comprehensive reports in PDF format.
+
+### Contributors
+
+- [Anna Lucia Lamacchia](https://github.com/annalulamacchia)
+- [Laura Concari](https://github.com/lauraaconcari)
+- [Alessandro Di Chiara](https://github.com/AlessandroDiChiara)
+- [Gianmarco Longiarù](https://github.com/LongGian)
+
+
