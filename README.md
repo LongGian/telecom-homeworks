@@ -11,13 +11,13 @@ Through the power of ns-3, we designed and simulated a network scenario, careful
 
 Using Wireshark, we captured and analyzed the packet flow within the simulated network. By examining the captured packets, we were able to calculate important performance metrics such as throughput, measuring the rate at which data was successfully transmitted, and RTT, quantifying the time taken for a packet to travel from the source to the destination and back.
 
-# 📊 Insights & Findings 📊
+## 📊 Insights & Findings 📊
 
 Our collaborative efforts and thorough analysis of the packet flow enabled us to gain valuable insights into the behavior and performance of the simulated network. By accurately measuring these parameters, we were able to assess the efficiency and effectiveness of the network design.
 
 For more detailed specifications and findings, please refer to the respective project directories, where you will find two comprehensive reports in PDF format.
 
-## 👥 Contributors 👥
+### 👥 Contributors 👥
 
 - [Anna Lucia Lamacchia](https://github.com/annalulamacchia)
 - [Laura Concari](https://github.com/lauraaconcari)
